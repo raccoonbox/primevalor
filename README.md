@@ -1,22 +1,30 @@
-Primevalor
+**Primevalor**
 
 "Step into Primevalor, where your greatest quest isn't slaying dragons—it's finding allies."
 
 MMORPG. 100-200 players on a single server. The playable world scaled accordingly.
+
 Website: primevalor.one (also link for Discord server).
+
 Goal: To create a game, which finally releases the wow private server community from the hideouts. A game which gives the possibility for the client and core developers to expose their identity and call the product original.
 
-Technical:
+*Technical*
+
 Style of the game mechanics and art: Like World of Warcraft.
+
 Assets and environment: Like the design of World of Warcraft, but enhanced by modern wow modding community's mods and assets.
+
 Core: Azeroth Core. 
+
 Client: Primevalor, based on available clients which are at the moment designed to work with Azeroth Core.
 
-Universe and lore: 
+*Universe and lore:*
+
 Inspired by Forgotten Realms and World of Warcraft. For example, when we will create a network of tunnels under the main zones just like underdark but we will not call it underdark. We will call it Terraden. You will not see Stormwind, Deadmines or Barrens. But you will see something very similar to it. You would recognize the original inspiration of the zone but it will be different enough that you would not call it plagiarism.
+
 Primevalor is not going to be your next wow vanilla or vanilla plus private server. Not another epoch of a turtle. This is going to be the original Primevalor, following the philosophy of Hollywood producers and story writers when they design the next blockbuster based on a previou success: Give me the same thing, but different.
 
-Objectives:
+*Objectives:*
 
 - Have good and evil factions. Players can choose a play style which would lead him/her to become a villain and opens up the possibility to join evil factions. Or they can try to be the paladin of the common and try to reach enlightenment while being worshipped and having a portrait icon on the window of a cathedral.
 
@@ -32,10 +40,12 @@ Objectives:
 
 - Have fun, and lots of dopamine, while playing Primevalor!
 
-Bio: 
+*Bio:*
+
 I'm Arumm Kultajärvi. A man who is soon to reach forty. I have problems, which I've solved and gained experience. More problems will face me today, tomorrow, and later. I’m made of flesh and bones. I have dreams and fears. Sometimes I fart. Quite often actually. So nothing special there. My profession is business management for ten years. I have studied design, then security, then acting, writing, mythologies and art, media and video producing. Last year I started to pursue a career as a psychologist and that is why with Primevalor I will research basic human needs, which are: rest, excitement, compassion, sex, attention, comfort, violence, power, money, greed, and how to implement these in-game.
 
-Recruitment: 
+*Recruitment:*
+
 I'm a designer and five years from now a psychologist. My knowledge of humanity and art is mediocre but technical knowledge is not-so. I would like to share this project with two more people. One: an engineer for the server and client. Technically capable person. Two: market specialist, some who understand marketing and money. Together we would be a team of weird, nerd and mingy. Ha! 
 
 I invite you to join—yet fresh—the Primevalor Discord server (primevalor.one) and apply for these positions or simply stick around as this is going to be one hell of a ride for a man who doesn't even know how to install Azeroth core. Omg, help!
