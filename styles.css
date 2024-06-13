@@ -80,7 +80,7 @@ p {
 
 @media (max-width: 768px) {
     h1 {
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 
     p {
@@ -90,4 +90,9 @@ p {
     .btn {
         padding: 0.5rem 1.5rem;
     }
+
+    .container {
+        max-width: 85%;
+    }
+    
 }
