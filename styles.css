@@ -1,5 +1,7 @@
 body {
     background-color: #888888;
+    background: url('/media/primevalor background image.jpg') no-repeat center center fixed;
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
