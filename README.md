@@ -1,4 +1,5 @@
 Primevalor
+
 "Step into Primevalor, where your greatest quest isn't slaying dragons—it's finding allies."
 
 MMORPG. 100-200 players on a single server. The playable world scaled accordingly.
