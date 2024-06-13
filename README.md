@@ -8,7 +8,7 @@ Website: primevalor.one (also link for Discord server).
 
 Goal: To create a game, which finally releases the wow private server community from the hideouts. A game which gives the possibility for the client and core developers to expose their identity and call the product original.
 
-*Technical*
+*Technical:*
 
 Style of the game mechanics and art: Like World of Warcraft.
 
