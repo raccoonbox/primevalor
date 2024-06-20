@@ -1,13 +1,15 @@
 body {
+    position: relative;
     background-color: #888888;
-    background: url('/media/primevalor background image.jpg') no-repeat center center fixed;
+    background: url('media/primevalor background image.jpg') no-repeat center center fixed;
     background-size: cover;
+    background-position: center 90%;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
-    font-family: 'Arial', sans-serif;
+    font-family: "Lora", serif;
     color: #fff;
 }
 
@@ -45,7 +47,7 @@ p {
     font-family: "Lora", serif;
     font-size: 1.2rem;
     margin: 1rem 0;
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.9);
 }
 
 .link {
@@ -95,4 +97,17 @@ p {
         max-width: 85%;
     }
     
+}
+
+.bg-credit {
+    position: absolute;
+    bottom: 20px; 
+    left: 20px; 
+    font-size: 0.8rem;
+    color: #fff;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.9);
+    
+    a:link {
+        color: rgb(255, 255, 255);
+      }
 }
